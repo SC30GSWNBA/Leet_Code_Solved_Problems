@@ -1,2 +1,2 @@
-# Leet_Code_Easy_Level_Question
+# Leet_Code_Solved_Problems
 Repository of Solved Leet Code Questions
